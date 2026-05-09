@@ -19,6 +19,7 @@ tested, and documented analytics layer using dbt and Snowflake.
 Historical daily OHLCV (Open, High, Low, Close, Volume) stock price 
 data for S&P 500 companies sourced from Kaggle. 619,040 rows covering 
 2013–2018.
+https://www.kaggle.com/datasets/camnugent/sandp500?resource=download
 
 ## Architecture
 
